@@ -19,20 +19,14 @@ body {
 
 /* Write all remaining styles here */
 h1{
-
   color: rgb(151, 173, 166);
-  margin-bottom: 0;
   font-family: 'Baskerville', serif;
   padding-bottom: 10px;
-    margin: 0 0 5px;
-    font-size: 5em;
-
-
+  margin: 0 0 5px;
+  font-size: 5em;
+  border-bottom: 1px solid #ccc;
 }
 
-hr{
-  color: #ccc;
-}
 
 header img {
   border: 5px solid;
