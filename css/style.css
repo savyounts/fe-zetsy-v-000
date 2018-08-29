@@ -41,7 +41,7 @@ h2 {
 
 footer {
   position: absolute;
-  bottom: 20px;
+  bottom: 0;
   right: 50px;
   font-size: 12px;
 }
