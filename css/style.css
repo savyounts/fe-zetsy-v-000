@@ -35,6 +35,7 @@ h2 {
 
 #about a:link{
   color: rgb(0, 132, 186);
+  text-decoration: none;
 }
 
 #press img {
