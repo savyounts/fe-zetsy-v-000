@@ -3,12 +3,10 @@
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
-html { height: 100%; margin: 0px; padding: 0px; }
 body {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
-  height: 100%; margin: 0px; padding: 0px;
 }
 
 .wrapper {
@@ -17,7 +15,6 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
   position: relative;
-  height: 100%;
 }
 
 /* Write all remaining styles here */
