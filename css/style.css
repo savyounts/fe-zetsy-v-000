@@ -21,3 +21,7 @@ body {
 header h1{
   font-size: 80px
 }
+
+img {
+  border: 1px 
+}
