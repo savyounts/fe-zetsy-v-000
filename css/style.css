@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 h1{
-  
+
   color: rgb(151, 173, 166);
   margin-bottom: 0;
   font-family: 'Baskerville', serif;
@@ -31,7 +31,7 @@ h1{
 }
 
 hr{
-  color: rgb(151, 173, 166);
+  color: #ccc;
 }
 
 header img {
