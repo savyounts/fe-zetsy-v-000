@@ -53,6 +53,11 @@ p{
   margin-bottom: 20px;
 }
 
+#press a:hover {
+  border: 5px solid;
+  border-color:rgb(110, 127, 122);
+}
+
 footer {
   position: absolute;
   bottom: 0;
