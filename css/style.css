@@ -24,6 +24,10 @@ header h1{
   color: rgb(151, 173, 166);
 }
 
+hr{
+  color: rgb(151, 173, 166);
+  height: .5em;
+}
 header img {
   border: 5px solid;
   border-color: rgb(151, 173, 166);
