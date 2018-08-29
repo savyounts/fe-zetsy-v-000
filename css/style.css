@@ -22,7 +22,7 @@ header h1{
   font-size: 80px
 }
 
-img {
+header img {
   border: 5px solid;
   border-color: rgb(151, 173, 166);
 }
@@ -30,4 +30,9 @@ img {
 h2 {
   font-size: 30px;
   color: rgb(110, 127, 122);
+}
+
+#press img {
+  border: 5px solid;
+  border-color: rgb(151, 173, 166);
 }
