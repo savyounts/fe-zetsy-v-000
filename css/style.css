@@ -4,6 +4,11 @@
 
 /*////////// Global Styles //////////*/
 
+html{
+  height: 100%;
+  min-height: 100%;
+}
+
 body {
 	background: #F3EBE9;
 	font-size: 100%;
