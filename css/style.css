@@ -34,8 +34,9 @@ h2 {
 }
 
 #about a:link{
-  decoration: none;
+  color: rgb(0, 132, 186);
 }
+
 #press img {
   border: 5px solid;
   border-color: rgb(202, 202, 202);
