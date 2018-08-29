@@ -27,7 +27,7 @@ h1{
   border-bottom: 1px solid #ccc;
 }
 
-header a:hover{
+header h1:hover{
   color:rgb(110, 127, 122);
 }
 
